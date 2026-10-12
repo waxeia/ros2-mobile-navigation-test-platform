@@ -1,0 +1,15 @@
+# ROS 2 / colcon generated directories
+build/
+install/
+log/
+
+# Python test and cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# CMake and editor-generated files
+compile_commands.json
+.DS_Store
+*~
